@@ -79,7 +79,9 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
 </p>
-### 👉Graphic Designing
+
+### 👉 Graphic Designing
+
 <p align="left">
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
