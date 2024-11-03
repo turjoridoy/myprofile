@@ -17,7 +17,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages & Framework
+### 👉 Programming languages & Frameworks
 
 <p align="left"> 
   &emsp;
@@ -27,12 +27,11 @@
   &emsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
-</a>
-  
+   </a>
   &emsp; 
  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white">
-</a>
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -80,14 +79,9 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
 </p>
-
-<br/>
-  
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
